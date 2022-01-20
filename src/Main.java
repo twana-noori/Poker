@@ -1,6 +1,7 @@
 public class Main {
     public static void main (String[] args){
         new PlayCards(2,1,false);
+        new PlayCards(20,1,false);
         //new StretchTask1("Hejsan Svejsan");
         //new StretchTask2(600, 2);
         //String[] persons = {"Kalle", "Ito", "Joshua", "Jasmine", "Kajsa", "Lucas", "Fia", "Ahmed"};
