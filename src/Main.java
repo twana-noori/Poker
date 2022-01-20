@@ -3,6 +3,8 @@ public class Main {
         new PlayCards(2,1,false);
         /*TEST OF GIT*/
 //nknkk commidfisdnfsg
+        //sdg,spg,s
+        //eg eorg e
         //new StretchTask1("Hejsan Svejsan");
         //new StretchTask2(600, 2);
         //String[] persons = {"Kalle", "Ito", "Joshua", "Jasmine", "Kajsa", "Lucas", "Fia", "Ahmed"};
