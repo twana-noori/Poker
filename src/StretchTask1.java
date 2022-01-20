@@ -21,6 +21,7 @@ public class StretchTask1 {
         }
         printHashMap();
     }
+    //GITTEST
     private void printHashMap() {
         for (Map.Entry<Character, Integer> es : map.entrySet()) {
             System.out.print(es.getKey() + ": ");
