@@ -4,7 +4,7 @@ public class Main {
         /*TEST OF GIT*/
 //nknkk commidfisdnfsg
         //ergeprgke
-        //sdg,spg,s
+        //sdg,spg,s lblk
         //eg eorg e
         //new StretchTask1("Hejsan Svejsan");
         //new StretchTask2(600, 2);
