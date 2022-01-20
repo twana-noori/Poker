@@ -6,6 +6,8 @@ public class PlayingCard {
     public PlayingCard(int value, CardType type){
         this.value = value;
         this.type = type;
+
+        //Test
     }
 
     public int getValue() {
